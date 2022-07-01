@@ -4,7 +4,7 @@ Apro il frigo
 Scorro il frigo
     ?SE l'elemento fa parte di ricetta
         lo prendo
-    ALTRIMENTI scorri oltre
+    ALTRIMENTI scorri oltre fino a che non ho tutti gli elementi della ricetta
 
 Peso gli ingredienti
     ?SE il peso corrisponde alla quantità specificata nella ricetta
