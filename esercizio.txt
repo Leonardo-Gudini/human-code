@@ -1,0 +1,21 @@
+PREPARARE LE LASAGNE ALLA BOLOGNESE
+
+Apro il frigo
+Scorro il frigo
+    ?SE l'elemento fa parte di ricetta
+        lo prendo
+    ALTRIMENTI scorri oltre
+
+Peso gli ingredienti
+    ?SE il peso corrisponde alla quantità specificata nella ricetta
+        prendo quella quantità
+
+Assemblo i vari ingredienti riferendomi alla ricetta
+Accendo il forno
+    ?SE il forno è ventilato AND la temperatura è uguale a 200 gradi
+        impsto un timer a 30 minuti 
+
+Inforno 
+
+Quando timer è uguale a 30minuti  
+    tiro fuori    
